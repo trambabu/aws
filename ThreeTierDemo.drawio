@@ -38,7 +38,10 @@
           <mxGeometry x="740" y="70" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="qXmF68J7PnDtsVbVRrwQ-12" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;" vertex="1" parent="qXmF68J7PnDtsVbVRrwQ-2">
-          <mxGeometry x="40" y="380" width="78" height="78" as="geometry" />
+          <mxGeometry x="60" y="420" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qXmF68J7PnDtsVbVRrwQ-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.route_table;" vertex="1" parent="qXmF68J7PnDtsVbVRrwQ-2">
+          <mxGeometry x="140" y="354" width="51.32" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
