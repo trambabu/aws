@@ -43,6 +43,12 @@
         <mxCell id="qXmF68J7PnDtsVbVRrwQ-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.route_table;" vertex="1" parent="qXmF68J7PnDtsVbVRrwQ-2">
           <mxGeometry x="140" y="354" width="51.32" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="qXmF68J7PnDtsVbVRrwQ-18" value="Application&amp;nbsp;&lt;div&gt;Load&lt;/div&gt;&lt;div&gt;Balancer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qXmF68J7PnDtsVbVRrwQ-2">
+          <mxGeometry x="170" y="40" width="71.32" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="qXmF68J7PnDtsVbVRrwQ-19" value="Internal&lt;div&gt;Application&amp;nbsp;&lt;div&gt;Load&lt;/div&gt;&lt;div&gt;Balancer&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qXmF68J7PnDtsVbVRrwQ-2">
+          <mxGeometry x="430" y="40" width="71.32" height="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
